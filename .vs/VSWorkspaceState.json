@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Weather_App",
+    "\\Weather_App\\app",
+    "\\Weather_App\\app\\src",
+    "\\Weather_App\\app\\src\\main",
+    "\\Weather_App\\app\\src\\main\\java",
+    "\\Weather_App\\app\\src\\main\\java\\com",
+    "\\Weather_App\\app\\src\\main\\java\\com\\example",
+    "\\Weather_App\\app\\src\\main\\java\\com\\example\\weatherapp"
+  ],
+  "SelectedNode": "\\Weather_App\\app\\src\\main\\java\\com\\example\\weatherapp\\MainActivity.kt",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,2 @@
+@HiltAndroidApp
+class WeatherApplication : Application()
